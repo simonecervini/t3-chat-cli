@@ -48,7 +48,7 @@ t3-chat-cli
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/t3-chat-cli
+git clone https://github.com/simonecervini/t3-chat-cli
 cd t3-chat-cli
 
 # Run directly
