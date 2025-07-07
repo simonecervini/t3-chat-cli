@@ -41,13 +41,13 @@ source ~/.bashrc
 ### Basic usage
 
 ```bash
-t3-chat-cli
+t3-chat
 ```
 
 ### Advanced usage (with a query)
 
 ```bash
-t3-chat-cli "your question here"
+t3-chat "your question here"
 ```
 
 ## Development
@@ -64,7 +64,7 @@ cargo run
 
 # Or build for release
 cargo build --release
-./target/release/t3-chat-cli
+./target/release/t3-chat
 ```
 
 _Made with ❤️ by Simone Cervini_
