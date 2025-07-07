@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 webbrowser = "1.0.5"
+urlencoding = "2.1.3"

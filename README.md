@@ -38,8 +38,16 @@ source ~/.bashrc
 
 ## Usage
 
+### Basic usage
+
 ```bash
 t3-chat-cli
+```
+
+### Advanced usage (with a query)
+
+```bash
+t3-chat-cli "your question here"
 ```
 
 ## Development
